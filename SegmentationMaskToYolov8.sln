@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SegmentationMaskToYolov8", "SegmentationMaskToYolov8.pyproj", "{BDE7BE74-9386-45C6-B643-A6D6E7788AF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDE7BE74-9386-45C6-B643-A6D6E7788AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE7BE74-9386-45C6-B643-A6D6E7788AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {859DC7C2-3836-4B27-A155-D2485EE8A577}
+	EndGlobalSection
+EndGlobal

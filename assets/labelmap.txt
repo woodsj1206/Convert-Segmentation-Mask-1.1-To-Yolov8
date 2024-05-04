@@ -1,0 +1,5 @@
+# label:color_rgb:parts:actions
+background:0,0,0::
+dog:250,50,83::
+horse:255,204,51::
+human:42,125,209::
