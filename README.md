@@ -1,5 +1,5 @@
 # Convert-Segmentation-Mask-1.1-To-Yolov8
-This Python program converts task datasets exported as Segmentation mask 1.1 from [CVAT](https://www.cvat.ai/) into YOLOv8 Instance Segmentation format.
+This Python program converts task datasets exported as Segmentation mask 1.1 from [CVAT](https://www.cvat.ai/) to YOLOv8 Instance Segmentation format.
 
 ## Features
 - Handles multiple classes in a single image.
